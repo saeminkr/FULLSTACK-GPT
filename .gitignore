@@ -377,3 +377,5 @@ config.local.js
 config.local.json
 settings.local.js
 settings.local.json 
+
+.streamlit/
