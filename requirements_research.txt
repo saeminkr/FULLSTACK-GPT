@@ -1,0 +1,21 @@
+# ── main ──
+requests==2.32.3
+beautifulsoup4==4.12.3
+lxml==5.3.0
+html5lib==1.1
+readability-lxml==0.8.1
+wikipedia==1.4.0
+wikipedia-api==0.6.0
+duckduckgo-search==5.3.1
+
+# ── LangChain v0.1 + LangChain Community ──
+langchain==0.2.16
+langchain-core==0.2.38
+langchain-community==0.2.16
+langsmith==0.1.120
+
+# ── pydantic v2  ──
+pydantic==2.7.4
+pydantic_core==2.18.4
+typing_extensions==4.12.2
+annotated-types==0.6.0
