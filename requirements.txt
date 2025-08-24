@@ -129,7 +129,7 @@
 # omegaconf==2.3.0
 # onnx==1.14.1
 # onnxruntime==1.16.0
-# openai==0.28.0
+openai==0.28.0
 # opencv-python==4.8.0.76
 # openpyxl==3.1.2
 # orjson==3.9.9
@@ -212,7 +212,7 @@
 # srsly==2.4.7
 # stack-data==0.6.2
 # starlette==0.27.0
-# streamlit==1.27.2
+streamlit==1.27.2
 # sympy==1.12
 # tabulate==0.9.0
 # tenacity==8.2.3
